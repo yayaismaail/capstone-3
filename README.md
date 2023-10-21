@@ -65,9 +65,9 @@
 
 <!-- Click for presentation [Weather App Presentation](..//). -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
 
-- [Live Demo Link](coming soon)
+<!-- - [Live Demo Link](coming soon) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
