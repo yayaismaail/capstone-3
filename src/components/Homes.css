@@ -1,0 +1,119 @@
+.heading {
+  height: 30vw;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  padding-right: 10px;
+  margin-bottom: 30px;
+  background-color: rgba(131, 6, 58, 0.993);
+}
+
+.cat {
+  display: flex;
+  justify-content: right;
+  padding-right: 15px;
+  font-size: 1em;
+  margin-top: -16vw;
+}
+
+.stats {
+  display: flex;
+  align-items: center;
+  background-color: rgba(247, 68, 142, 0.993);
+  height: 40px;
+  padding: 10px;
+}
+
+.home-items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-top: 30px;
+  background-color: rgba(247, 68, 142, 0.993);
+}
+
+.home-item {
+  height: 45vw;
+  width: 50vw;
+  background-color: rgba(247, 68, 142, 0.993);
+  display: flex;
+  flex-direction: column;
+  padding-left: 38px;
+  font-size: 1.3em;
+  margin-top: -20px;
+}
+
+.instruments {
+  color: #fff;
+  font-size: 45px;
+  margin-bottom: -80px;
+  padding-top: 15px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.link-0 {
+  background-color: rgba(131, 6, 58, 0.993);
+  margin-top: -40px;
+}
+
+.link-1 {
+  background-color: rgba(247, 68, 142, 0.993);
+  margin-top: -35px;
+}
+
+.link-2 {
+  background-color: rgba(247, 68, 142, 0.993);
+}
+
+.link-3 {
+  background-color: rgba(131, 6, 58, 0.993);
+}
+
+.link-4 {
+  background-color: rgba(131, 6, 58, 0.993);
+}
+
+.item {
+  font-size: 1.2rem;
+}
+
+.item-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-right: 10px;
+  margin-top: 30vw;
+}
+
+.about {
+  padding: 20px;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+.chevronIcon {
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.app-title,
+.app-info,
+.contact {
+  text-shadow: 3px 4px 2px #000;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  line-height: 0.001;
+}
+
+.loading {
+  font-size: 1em;
+  margin-top: 20px;
+  margin-left: 30px;
+}

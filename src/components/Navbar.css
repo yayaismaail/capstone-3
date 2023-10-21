@@ -1,0 +1,33 @@
+.nav {
+  background-color: rgba(247, 68, 142, 0.993);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 10px 10px;
+  height: 7vh;
+}
+
+.angle-left,
+.microphoneIcon,
+.bars {
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.gearIcon,
+.magnifying-glass {
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 25px;
+  padding-right: 10px;
+}
+
+.details {
+  font-size: 1.3em;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}
