@@ -61,9 +61,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Presentation <a name="presentation"></a>
+<!-- ## 💻 Presentation <a name="presentation"></a> -->
 
-Click for presentation [Weather App Presentation](..//).
+<!-- Click for presentation [Weather App Presentation](..//). -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
