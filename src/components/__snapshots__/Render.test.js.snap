@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About should render a link with a back arrow icon 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="about"
+      >
+        <a
+          href="/"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-chevron-left chevronIcon"
+            data-icon="chevron-left"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 320 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"
+              fill="currentColor"
+            />
+          </svg>
+        </a>
+        <h1
+          class="app-title"
+        >
+          About the App
+        </h1>
+        <p
+          class="app-info"
+        >
+          Welcome to the weather app! Here, you can stay up to date on the latest weather conditions in your city.
+        </p>
+        <p
+          class="app-info"
+        >
+          We understand that weather can have a significant impact on your daily life, whether you are planning your commute, your outdoor activities, or your wardrobe. That's why we strive to provide you with the most detailed and easy-to-understand information possible, so you can make informed decisions about your day.
+        </p>
+        <div
+          class="contact"
+        >
+          <h4>
+            Contact me
+          </h4>
+          <p>
+            ismailhm888@gmail.com
+          </p>
+          <p>
+            github @yayaismaail
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="about"
+    >
+      <a
+        href="/"
+      >
+        <svg
+          aria-hidden="true"
+          class="svg-inline--fa fa-chevron-left chevronIcon"
+          data-icon="chevron-left"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          viewBox="0 0 320 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"
+            fill="currentColor"
+          />
+        </svg>
+      </a>
+      <h1
+        class="app-title"
+      >
+        About the App
+      </h1>
+      <p
+        class="app-info"
+      >
+        Welcome to the weather app! Here, you can stay up to date on the latest weather conditions in your city.
+      </p>
+      <p
+        class="app-info"
+      >
+        We understand that weather can have a significant impact on your daily life, whether you are planning your commute, your outdoor activities, or your wardrobe. That's why we strive to provide you with the most detailed and easy-to-understand information possible, so you can make informed decisions about your day.
+      </p>
+      <div
+        class="contact"
+      >
+        <h4>
+          Contact me
+        </h4>
+        <p>
+          ismailhm888@gmail.com
+        </p>
+        <p>
+          github @yayaismaail
+        </p>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`About should render the about page with correct heading and text 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="about"
+      >
+        <a
+          href="/"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-chevron-left chevronIcon"
+            data-icon="chevron-left"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 320 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"
+              fill="currentColor"
+            />
+          </svg>
+        </a>
+        <h1
+          class="app-title"
+        >
+          About the App
+        </h1>
+        <p
+          class="app-info"
+        >
+          Welcome to the weather app! Here, you can stay up to date on the latest weather conditions in your city.
+        </p>
+        <p
+          class="app-info"
+        >
+          We understand that weather can have a significant impact on your daily life, whether you are planning your commute, your outdoor activities, or your wardrobe. That's why we strive to provide you with the most detailed and easy-to-understand information possible, so you can make informed decisions about your day.
+        </p>
+        <div
+          class="contact"
+        >
+          <h4>
+            Contact me
+          </h4>
+          <p>
+            ismailhm888@gmail.com
+          </p>
+          <p>
+            github @yayaismaail
+          </p>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="about"
+    >
+      <a
+        href="/"
+      >
+        <svg
+          aria-hidden="true"
+          class="svg-inline--fa fa-chevron-left chevronIcon"
+          data-icon="chevron-left"
+          data-prefix="fas"
+          focusable="false"
+          role="img"
+          viewBox="0 0 320 512"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l192 192c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256 246.6 86.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-192 192z"
+            fill="currentColor"
+          />
+        </svg>
+      </a>
+      <h1
+        class="app-title"
+      >
+        About the App
+      </h1>
+      <p
+        class="app-info"
+      >
+        Welcome to the weather app! Here, you can stay up to date on the latest weather conditions in your city.
+      </p>
+      <p
+        class="app-info"
+      >
+        We understand that weather can have a significant impact on your daily life, whether you are planning your commute, your outdoor activities, or your wardrobe. That's why we strive to provide you with the most detailed and easy-to-understand information possible, so you can make informed decisions about your day.
+      </p>
+      <div
+        class="contact"
+      >
+        <h4>
+          Contact me
+        </h4>
+        <p>
+          ismailhm888@gmail.com
+        </p>
+        <p>
+          github @yayaismaail
+        </p>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
