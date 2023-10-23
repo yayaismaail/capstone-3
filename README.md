@@ -33,9 +33,8 @@
 
 # 📖 [Metrics webapp/Weather App] <a name="about-project"></a>
 
-**[Metrics webapp]**this app is all about building a mobile web application to check a list of metrics (numeric values) created by  making use of React and Redux.
+**[Metrics webapp]**these apps entail about building a mobile web application to check a list of metrics (numeric values) created by  making use of React and Redux.
  **[Weather App]**is a project that uses a Single Page Application format to display items on a page in which a user can access different weather information by simply clicking on the relevant category.
-
 
 ## 🛠 Built With <a name="built-with"></a>
 
