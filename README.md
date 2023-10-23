@@ -15,7 +15,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
   - [Key Features](#key-features)
-  <!-- - [💻 Presentation](#presentation) -->
+  - [💻 Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -58,16 +58,15 @@
 - **[Consumed OpenWeather API]**
 - **[Employed Redux toolkit and ReactJS environment]**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ## 💻 Presentation <a name="presentation"></a> -->
+## 💻 Presentation <a name="presentation"></a>
 
-<!-- Click for presentation [Weather App Presentation](..//). -->
+Click for presentation [Weather App Presentation](..//).
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- - [Live Demo Link](coming soon) -->
+- [Live Demo Link](https://weather-metric-webapp.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
