@@ -61,7 +61,7 @@
 
 ## 💻 Presentation <a name="presentation"></a>
 
-Click for presentation [Weather App Presentation](..//).
+Click for presentation [Weather App Presentation](https://www.loom.com/share/a16b12eee81541c28bd518511932f699?sid=02ce243a-4c8b-44c7-aeb2-10073177752f).
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
