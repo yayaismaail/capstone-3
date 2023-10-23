@@ -1,7 +1,6 @@
 {
   "name": "capstone-3",
   "version": "0.1.0",
-  "homepage": "https://yayaismaail.github.io/capstone-3/",
   "root": true,
   "private": true,
   "dependencies": {
