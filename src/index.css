@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(247, 68, 142, 0.993);
+  color: aliceblue;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: aliceblue;
+}

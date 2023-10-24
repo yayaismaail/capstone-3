@@ -1,0 +1,104 @@
+@media only screen and (min-device-width: 768px) {
+  .heading {
+    margin-top: -15vh;
+    font-size: 4.2em;
+    padding-right: 40px;
+  }
+
+  .cat {
+    font-size: 2.4em;
+    padding-top: 8vh;
+    padding-right: 40px;
+  }
+
+  .stats {
+    font-size: 2.5em;
+    height: 100px;
+    padding: 25px;
+  }
+
+  .home-item {
+    box-sizing: border-box;
+    font-size: 4em;
+    display: flex;
+    width: 49.2vw;
+  }
+
+  .home-items {
+    margin-top: 55px;
+  }
+
+  .nav {
+    padding: 30px 25px 0;
+    height: 10vh;
+  }
+
+  .angle-left,
+  .microphoneIcon,
+  .bars,
+  .chevronIcon {
+    font-size: 35px;
+    margin-top: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+
+  .gearIcon,
+  .magnifying-glass {
+    font-size: 35px;
+    margin-top: 15px;
+    margin-left: 35px;
+    padding-right: 15px;
+    cursor: pointer;
+  }
+
+  .details {
+    font-size: 1.7em;
+    margin-top: 50px;
+    letter-spacing: 10px;
+  }
+
+  .about {
+    padding: 60px;
+    font-size: 1.5em;
+    line-height: 2em;
+  }
+
+  .coordinate,
+  .system,
+  .temperature,
+  .weather,
+  .wind {
+    font-size: 120px;
+    margin-bottom: -190px;
+    padding-top: 25px;
+    padding-left: 100px;
+    cursor: pointer;
+  }
+
+  .list {
+    height: 5vw;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 1.7em;
+    padding: 0 100px;
+  }
+
+  .item-wrap {
+    margin-right: 35px;
+    margin-top: 25vw;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .instruments {
+    font-size: 180px;
+    padding-top: 45px;
+  }
+
+  .loading {
+    font-size: 3em;
+    margin-top: 20px;
+    margin-left: 40px;
+  }
+}
